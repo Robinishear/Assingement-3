@@ -169,6 +169,6 @@ assaignment-3/
 | **ERD Diagram**       | [ERD Link][erd]       |
 | **Viva Video**        | [Viva Video][viva]    |
 
-[github]: https://github.com/mdrasel97/b6a3-Vehicle-Rental-System
+[github]: https://github.com/Robinishear/Assingement-3.git
 [erd]: https://drawsql.app/teams/vexio-web-creations/diagrams/vehicle-rental-system
 [viva]:https://drive.google.com/file/d/1Pu40VRReOfRTFdrhAIh8Cbz4EwDKU9Zq/view?usp=sharing
